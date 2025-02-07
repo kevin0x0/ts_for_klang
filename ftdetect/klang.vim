@@ -1,1 +1,1 @@
-au BufRead,BufNewFile *.klang set ft=klang
+au BufRead,BufNewFile *.kl set ft=klang
